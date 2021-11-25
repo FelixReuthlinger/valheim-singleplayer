@@ -1,0 +1,16 @@
+{
+	"name": "SinglePlayer_Essentials",
+	"description": "Essentials for doing single player play through",
+	"version_number": "1.3.2",
+	"website_url": "https://github.com/FelixReuthlinger/valheim-singleplayer",
+	"dependencies": [
+		"RandyKnapp-EquipmentAndQuickSlots-2.0.14",
+		"virtuaCode-TrashItems-1.2.4",
+		"MathiasDecrock-SeedTotem-4.1.0",
+		"nearbear-BiggerBoatMapExploreRadius-1.0.3",
+		"Nextek-SpeedyPaths-1.0.5",
+		"Smoothbrain-SteadyRegeneration-1.0.0",
+		"Tekla-AutoRepair-5.4.1602",
+		"denikson-BepInExPack_Valheim-5.4.1601"
+	]
+}
