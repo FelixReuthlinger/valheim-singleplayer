@@ -1,7 +1,7 @@
 {
 	"name": "SinglePlayer_Essentials",
 	"description": "Essentials for doing single player play through",
-	"version_number": "1.3.2",
+	"version_number": "1.3.3",
 	"website_url": "https://github.com/FelixReuthlinger/valheim-singleplayer",
 	"dependencies": [
 		"RandyKnapp-EquipmentAndQuickSlots-2.0.14",
@@ -10,6 +10,7 @@
 		"nearbear-BiggerBoatMapExploreRadius-1.0.3",
 		"Nextek-SpeedyPaths-1.0.5",
 		"Smoothbrain-SteadyRegeneration-1.0.0",
+		"Smoothbrain-StaminaRegenerationFromFood-1.5.1",
 		"Tekla-AutoRepair-5.4.1602",
 		"denikson-BepInExPack_Valheim-5.4.1601"
 	]
