@@ -33,6 +33,7 @@ increase/decrease radius hotkeys to "Equals" and "Slash"
   that don't make too much sense for me and I added some more handy recipes.
 
 ## Credits 
+
 Credits to the original mod authors and their mods.
 This mod contains a re-upload from Aedenthorn's 
 [Craft Build Smelt Cook Fuel Pull From Containers](https://www.nexusmods.com/valheim/mods/40), 
