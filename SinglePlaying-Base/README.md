@@ -10,6 +10,28 @@ This mod pack does add some of the most basic mods that change playing the game:
 The configuration provided for these mods in this modpack remains pretty simple, the only bigger change is that
 CLLC's item config is activated and item's configuration is slightly changed, like weight and items that are kept on death.
 
+## Other recommended mods
+
+Here is a list of other mods / mod packs I created and like to use myself for single player (but those could also be 
+used on servers, if the server admins install them):
+* [Single Player Essentials](https://valheim.thunderstore.io/package/FixItFelix/SinglePlayer_Essentials/) 
+  -> another mod pack with some features I personally like
+* [Regenerative Nature](https://valheim.thunderstore.io/package/FixItFelix/RegenerativeNature/)
+  -> using [SpawnThat](https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/) to respawn natural resources
+  like tin and some trees and rare seeds
+* [No Skill Drain](https://valheim.thunderstore.io/package/FixItFelix/NoSkillDrain/) -> on death your gained
+  skills aren't lowered
+* [Item Configs for CLLC](https://valheim.thunderstore.io/package/FixItFelix/CreatureLeveLAndLootControl_itemconfig/)
+  -> this mod added ItemConfig*.yml files for 
+  [CLLC](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/) mod
+* [Loot tables for EpicLoot](https://valheim.thunderstore.io/package/FixItFelix/EpicLoot_HaertAndHome_LootTables/)
+  -> adds loot tables for [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) mod since the 
+  author didn't push full updates adding all new items and creatures, yet
+* [Reworked enchants for EpicLoot](https://valheim.thunderstore.io/package/FixItFelix/EpicLoot_reworked_enchants/)
+  -> adds enchanting recipes and available enchants for 
+  [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) mod since the author created a lot enchants
+  that don't make too much sense for me and I added some more handy recipes.
+
 ## Installation
 
 Most of the installation works out-of-the-box using ThunderStore Mod Manager (TMM), but some mods don't clearly comply to loading config from config folder.
@@ -36,6 +58,7 @@ Steps:
 
 ## Changelog
 
+* 1.3.6 -> moved stamina regen to essentials mod
 * 1.3.5 -> updated to most recent mod versions from game update on 25th Nov
 * 1.3.4 -> extracted some mod configs to be re-used in other packs
 * 1.3.3 -> added auto repair
