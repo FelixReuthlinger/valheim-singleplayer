@@ -7,10 +7,13 @@ daily tasks, without changing the game or the difficulty.
 I provide slightly adjusted configs with these, since I found changing some default settings helpful:
 * EAQS -> changing hotkey from "z" to "c", so you get all 3 next to each other (btw: make sure to change 
 the vanilla hotkey setting for toggling auto-pickup from "v" to some other key)
-* CFC -> increased radius and turned Round Log on for being put into Kiln, etc.
+* [Productivity mod pack](https://valheim.thunderstore.io/package/FixItFelix/ProductivityPack/)
 * SeedTotem -> increased space requirement to not waste seeds into unhealthy plants, changed 
 increase/decrease radius hotkeys to "Equals" and "Slash"
 * Bigger boat exploration radius -> set radius to 250m
+* Health and stamina regeneration improved
+* Carry weight skill
+* Replacing forsaken power with a combined active and passive variant
 
 ## Other recommended mods
 
@@ -32,15 +35,13 @@ increase/decrease radius hotkeys to "Equals" and "Slash"
   [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) mod since the author created a lot enchants
   that don't make too much sense for me and I added some more handy recipes.
 
-## Credits 
-
-Credits to the original mod authors and their mods.
-This mod contains a re-upload from Aedenthorn's 
-[Craft Build Smelt Cook Fuel Pull From Containers](https://www.nexusmods.com/valheim/mods/40), 
-which isn't available on ThunderStore, credits go fully to Aedenthorn.
-
 ## Change log
 
+* 1.4.0 -> 
+  * using productivity pack instead added Aedenthorn's mod in this pack here
+  * added packhorse mod
+  * added passive powers
+  * added comfort tweaks
 * 1.3.3 -> added stamina regeneration from food mod
 * 1.3.2 -> updating to latest version for new game version from 25th Nov
 * 1.3.1 -> increased container range 

@@ -1,17 +1,21 @@
 {
-	"name": "SinglePlayer_Essentials",
-	"description": "Essentials for doing single player play through",
-	"version_number": "1.3.3",
-	"website_url": "https://github.com/FelixReuthlinger/valheim-singleplayer",
-	"dependencies": [
-		"RandyKnapp-EquipmentAndQuickSlots-2.0.14",
-		"virtuaCode-TrashItems-1.2.4",
-		"MathiasDecrock-SeedTotem-4.1.0",
-		"nearbear-BiggerBoatMapExploreRadius-1.0.3",
-		"Nextek-SpeedyPaths-1.0.5",
-		"Smoothbrain-SteadyRegeneration-1.0.0",
-		"Smoothbrain-StaminaRegenerationFromFood-1.5.1",
-		"Tekla-AutoRepair-5.4.1602",
-		"denikson-BepInExPack_Valheim-5.4.1601"
-	]
+  "name": "SinglePlayer_Essentials",
+  "description": "Essentials for doing single player play through",
+  "version_number": "1.4.0",
+  "website_url": "https://github.com/FelixReuthlinger/valheim-singleplayer",
+  "dependencies": [
+    "RandyKnapp-EquipmentAndQuickSlots-2.0.14",
+    "virtuaCode-TrashItems-1.2.4",
+    "MathiasDecrock-SeedTotem-4.1.0",
+    "nearbear-BiggerBoatMapExploreRadius-1.0.3",
+    "Nextek-SpeedyPaths-1.0.5",
+    "Smoothbrain-SteadyRegeneration-1.0.0",
+    "Smoothbrain-StaminaRegenerationFromFood-1.5.1",
+    "Smoothbrain-PackHorse-1.0.0",
+    "Smoothbrain-PassivePowers-1.0.2",
+    "Smoothbrain-ComfortTweaks-2.7.6",
+    "Tekla-AutoRepair-5.4.1602",
+    "FixItFelix-ProductivityPack-1.0.0",
+    "denikson-BepInExPack_Valheim-5.4.1601"
+  ]
 }
