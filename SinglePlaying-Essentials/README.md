@@ -40,8 +40,7 @@ I provide slightly adjusted configs with these, since I found changing some defa
 
 ## Change log
 
-* 1.4.1 -> increased seed totem planting, so don't need to wait for minutes until seeds 
-  are used up with space
+* 1.4.1 -> moved seed totem settings to productivity pack
 * 1.4.0 -> 
   * using productivity pack instead added Aedenthorn's mod in this pack here
   * added packhorse mod
