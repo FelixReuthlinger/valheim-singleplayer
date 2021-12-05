@@ -6,10 +6,10 @@ daily tasks, without changing the game or the difficulty.
 
 I provide slightly adjusted configs with these, since I found changing some default settings helpful:
 * EAQS -> changing hotkey from "z" to "c", so you get all 3 next to each other (btw: make sure to change 
-the vanilla hotkey setting for toggling auto-pickup from "v" to some other key)
+  the vanilla hotkey setting for toggling auto-pickup from "v" to some other key)
 * [Productivity mod pack](https://valheim.thunderstore.io/package/FixItFelix/ProductivityPack/)
 * SeedTotem -> increased space requirement to not waste seeds into unhealthy plants, changed 
-increase/decrease radius hotkeys to "Equals" and "Slash"
+  increase/decrease radius hotkeys to "Equals" and "Slash"
 * Bigger boat exploration radius -> set radius to 250m
 * Health and stamina regeneration improved
 * Carry weight skill
@@ -18,25 +18,30 @@ increase/decrease radius hotkeys to "Equals" and "Slash"
 ## Other recommended mods
 
 * [Single Player Base](https://valheim.thunderstore.io/package/FixItFelix/SinglePlayer_Base/) 
-  -> another mod pack with some features I personally like
+  * another mod pack with some features I personally like
 * [Regenerative Nature](https://valheim.thunderstore.io/package/FixItFelix/RegenerativeNature/)
-  -> using [SpawnThat](https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/) to respawn natural resources
+  * using [SpawnThat](https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/) to respawn natural resources
   like tin and some trees and rare seeds
-* [No Skill Drain](https://valheim.thunderstore.io/package/FixItFelix/NoSkillDrain/) -> on death your gained
-  skills aren't lowered
+* [No Skill Drain](https://valheim.thunderstore.io/package/FixItFelix/NoSkillDrain/) 
+  * on death your gained skills aren't lowered
 * [Item Configs for CLLC](https://valheim.thunderstore.io/package/FixItFelix/CreatureLeveLAndLootControl_itemconfig/)
-  -> this mod added ItemConfig*.yml files for
-  [CLLC](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/) mod
+  * this mod added ItemConfig*.yml files for
+    [CLLC](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/) mod
 * [Loot tables for EpicLoot](https://valheim.thunderstore.io/package/FixItFelix/EpicLoot_HaertAndHome_LootTables/)
-  -> adds loot tables for [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) mod since the
+  * adds loot tables for [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) mod since the
   author didn't push full updates adding all new items and creatures, yet
 * [Reworked enchants for EpicLoot](https://valheim.thunderstore.io/package/FixItFelix/EpicLoot_reworked_enchants/)
-  -> adds enchanting recipes and available enchants for
+  * adds enchanting recipes and available enchants for
   [EpicLoot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) mod since the author created a lot enchants
   that don't make too much sense for me and I added some more handy recipes.
+* [Productivity mod pack](https://valheim.thunderstore.io/package/FixItFelix/ProductivityPack/)
+  * build, craft, ... from containers
+  * improving smelter, kiln and furnace base values
 
 ## Change log
 
+* 1.4.1 -> increased seed totem planting, so don't need to wait for minutes until seeds 
+  are used up with space
 * 1.4.0 -> 
   * using productivity pack instead added Aedenthorn's mod in this pack here
   * added packhorse mod

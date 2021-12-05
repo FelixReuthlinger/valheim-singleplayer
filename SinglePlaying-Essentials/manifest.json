@@ -1,7 +1,7 @@
 {
   "name": "SinglePlayer_Essentials",
   "description": "Essentials for doing single player play through",
-  "version_number": "1.4.0",
+  "version_number": "1.4.1",
   "website_url": "https://github.com/FelixReuthlinger/valheim-singleplayer",
   "dependencies": [
     "RandyKnapp-EquipmentAndQuickSlots-2.0.14",
